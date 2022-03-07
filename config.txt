@@ -1,0 +1,2 @@
+Config cs:
+bind mwheelup +jump; bind mwheeldown +jump; bind f r_cleardecals; net_graph 1
