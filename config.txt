@@ -1,4 +1,4 @@
 Config cs:
 bind mwheelup +jump; bind mwheeldown +jump; bind f r_cleardecals; net_graph 1; net_graphproportionalfont 0
 
-bind c "use weapon_flashbang";bind x "use weapon_smokegrenade";bind z "use weapon_hegrenade";bind v "use weapon_molotov;use weapon_incgrenade"
+bind alt "use weapon_flashbang";bind x "use weapon_smokegrenade";bind z "use weapon_hegrenade";bind v "use weapon_molotov;use weapon_incgrenade"
